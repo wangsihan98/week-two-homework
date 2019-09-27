@@ -1,3 +1,5 @@
+![image](https://github.com/wangsihan98/week-two-homework/blob/master/picture1.jpg)
+![image](https://github.com/wangsihan98/week-two-homework/blob/master/picture2.jpg)
 # 操作过程及感想
 
 在构思阶段，我一开始想用5个圆分别记录我2014-2018年的观影记录，把360度平均分为365等份，用颜色表示不同国家，长度表示电影的豆瓣评分，但在画出一个圆来之后，我觉得不够美观，五个圆之间没有太多联系。于是，我在图纸上随便画了几笔，试图寻找新的思路，就在拼拼凑凑中，我画出了几个类似树苗的东西，突然发现一棵树可以代表一个月，枝杈的高低可以代表看电影的日期。就这样，我画完了五年所有的观影记录。
