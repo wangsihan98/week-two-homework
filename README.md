@@ -1,4 +1,5 @@
 ![image](https://github.com/wangsihan98/week-two-homework/blob/master/picture1.jpg)
+
 ![image](https://github.com/wangsihan98/week-two-homework/blob/master/picture2.jpg)
 # 操作过程及感想
 
